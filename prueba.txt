@@ -1,3 +1,5 @@
 Prueba prevía a la inicializacion del git
 
 Ahora con nuevos cambios que quiero que mermen con main
+
+Tras utilizar git kraken
